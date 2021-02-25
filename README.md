@@ -2,9 +2,9 @@
 
 
 - 🔭 I’m currently a Student at Baruch College
-- 🌱 I’m currently learning Data Science (Data Cleaning, Data Visualziation, Data Standardization, Machine Learning)
+- 🌱 I’m currently learning Data Science (Data Cleaning, Data Visualization, Data Standardization, and Machine Learning)
 - 👯 I’m actively looking for Data Science/ Data Analysis Intern opportunities
-- 🤔 I’m love food 
+- 🤔 I love food 
 
 Experience in data analysis, and machine learning with a Data Science background.
 Having earned a Finance degree has provided me a solid foundation and a good intuition in Machine Learning and Statistical Analysis.
