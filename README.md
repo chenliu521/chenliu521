@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently a Student at Baruch College
 - 🌱 I’m currently learning Data Science (Data Cleaning, Data Visualization, Data Standardization, and Machine Learning)
-- 👯 I’m actively looking for Data Science/ Data Analysis Intern opportunities
+- 👯 I’m actively looking for Data Science/ Data Analysis opportunities
 - 🤔 I love food 
 
 Experience in data analysis, and machine learning with a Data Science background.
